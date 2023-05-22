@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a WEB-3 Blockchain Application**
 
-- 🌱 I’m currently learning **Full-Stack Web Development at Microverse**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://programkingabel.github.io/portfolio/](https://programkingabel.github.io/portfolio/)
 
