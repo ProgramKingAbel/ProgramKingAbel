@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ceoabel1" target="blank"><img src="https://img.shields.io/twitter/follow/ceoabel1?logo=twitter&style=for-the-badge" alt="ceoabel1" /></a> </p>
 
-- 🔭 I’m currently working on **a WEB-3 Blockchain Application**
+- 🔭 I’m currently working on **a WEB-3.0 Application**
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Low level Programming**
 
 - 👨‍💻 All of my projects are available at [https://programkingabel.github.io/portfolio/](https://programkingabel.github.io/portfolio/)
 
-- 💬 Ask me about **MERN, BLOCKCHAIN**
+- 💬 Ask me about **JAVASCRIPT/REACT/REDUX**
 
 - 📫 How to reach me **abelmorara254@gmail.com**
 
