@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ceoabel1" target="blank"><img src="https://img.shields.io/twitter/follow/ceoabel1?logo=twitter&style=for-the-badge" alt="ceoabel1" /></a> </p>
 
-- 🔭 I’m currently working on **a WEB-3.0 Application**
+- 🔭 I’m currently working on **Architecting Cloud Solutions for bussiness critical applications in AWS**
 
-- 🌱 I’m currently learning **Low level Programming**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://programkingabel.github.io/portfolio/](https://programkingabel.github.io/portfolio/)
 
-- 💬 Ask me about **JAVASCRIPT/REACT/REDUX**
+- 💬 Ask me about **JAVASCRIPT|RUBY|RAILS|AWS**
 
 - 📫 How to reach me **abelmorara254@gmail.com**
 
