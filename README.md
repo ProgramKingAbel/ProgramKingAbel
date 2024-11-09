@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Architecting Cloud Solutions for bussiness critical applications in AWS**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://programkingabel.github.io/portfolio/](https://programkingabel.github.io/portfolio/)
 
